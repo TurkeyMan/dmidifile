@@ -1,0 +1,10 @@
+{
+	"name": "dmidifile",
+	"description": "Library to read midi files",
+	"homepage": "https://github.com/TurkeyMan/dmidifile",
+	"authors": ["Manu Evans"],
+	"copyright": "Copyright (c) 2014 Manu Evans",
+	"license": "MIT",
+	"importPaths": ["."],
+	"targetType": "sourceLibrary"
+}
